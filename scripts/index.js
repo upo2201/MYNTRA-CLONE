@@ -1,0 +1,5 @@
+//alert("I'm inside HTML page")
+    console.log('Hello Friends')
+    console.log(2+2)
+    console.warn('This is a warning')
+    console.error('STOP. This is an error')
